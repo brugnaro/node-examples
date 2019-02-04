@@ -6,3 +6,4 @@ const argv = require('yargs').demandOption('num').argv;
 const num = argv.num;
 console.log(`The factorial of ${num} is iqual ${fatorial_1.fatorial(num)}`);
 console.log(module.paths);
+//# sourceMappingURL=main.js.map
